@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+
+# Kubernetes
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
